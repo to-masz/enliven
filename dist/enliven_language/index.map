@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "..\\..",
+  "sources": [
+    "src\\enliven_language\\index.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;CAAA,KAAA,QAAA;;CAAA;CAAA,MAAA,IAAA;qBAAA;CAAA,EAAQ,CAAR,GAAQ;CAAR,EAAA;CAAA"
+}

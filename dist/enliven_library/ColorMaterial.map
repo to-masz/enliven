@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "ColorMaterial.js",
+  "sourceRoot": "..\\..",
+  "sources": [
+    "src\\enlivenLibrary\\material\\ColorMaterial.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,aAAA;KAAA;oSAAA;;CAAA,CAAA,CAA6B,GAAvB,OAAN;CAEE,OAAA,qCAAA;;CAAA;;;;;CAAA;;CAAA,CACgB,CADQ,GACtB,EAIA,CAFA,CACA,CAHA,GAAA,GACA,KAFF;;CAAA,EASA,CADA,SAAA,gHARA;;CAAA,EAiBc,SAAd,CAjBA;;CAAA,CAoBc,CADY,GACxB,EAAA,CAAA,eADF;;CAnBA,EAwBA,CADA,WAAA,qCAvBA;;CAAA,EA+BgB,WAAhB,CA/BA;;CAAA,EAiCgB,CAAhB,SAAA;;CAjCA,CAmCkB,CAAA,MAAC,OAAnB;CACE,GAAG,CAAiB,CAApB,OAAG;CACD,CAAgB,CAAA,CAAC,IAAjB,KAAA,MAAgB;QADlB;CADgB,YAGhB;CAtCF,IAmCkB;;CAnClB;;CAFiD;CAAnD"
+}

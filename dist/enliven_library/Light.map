@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Light.js",
+  "sourceRoot": "..\\..",
+  "sources": [
+    "src\\enlivenLibrary\\material\\Light.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,yBAAA;KAAA,+VAAA;;CAAA,CAAA,CAAqB,EAArB,CAAM;CAEJ,OAAA;;CAAA;;CAAA,CAEE,CAFgB,CAAlB,CAAC,IAAiB,CAAA,EAAA,GAAlB;;CAAA,EASuB,CAAvB,CAAC,WAEH,CAFE,GAAuB;;CAExB;CAAA;YAAA,+BAAA;6BAAA;CAAA,CAAA,CAAA,GAAA,EAAW,QAAT;CAAF;;CAAD,CAAA,EAAA,EAFyB,UAEwD;;CAX/E;;CAFF;;CAiBA;CAAA,MAAA,oCAAA;yBAAA;CAAA,EAAoB,CAApB,CAAK,GAAG,CAAA;CAAR,EAjBA;CAAA"
+}

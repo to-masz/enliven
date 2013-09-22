@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "TextureMaterial.js",
+  "sourceRoot": "..\\..",
+  "sources": [
+    "src\\enlivenLibrary\\material\\TextureMaterial.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,eAAA;KAAA;oSAAA;;CAAA,CAAA,CAA+B,GAAzB,SAAN;CAEE,OAAA,qCAAA;;CAAA;;;;;CAAA;;CAAA,CACgB,CADQ,GACtB,GAEA,CACA,CAHA,IAIA,EAHA,IADA,CADF;;CAAA,EASA,CADA,SAAA,8HARA;;CAAA,EAgBc,SAAd,CAhBA;;CAAA,CAmBc,CADY,GACxB,GAAA,CACA,CAAA,IADA,SADF;;CAlBA,EAwBA,CADA,WAAA,0FAvBA;;CAAA,EA8BgB,WAAhB,CA9BA;;CAAA,EAgCgB,CAAhB,SAAA;;CAhCA,CAkCkB,CAAA,MAAC,OAAnB;CACE,GAAG,CAAiB,CAApB,OAAG;CACD,CAAgB,CAAA,CAAC,IAAjB,KAAA,MAAgB;QADlB;CADgB,YAGhB;CArCF,IAkCkB;;CAlClB;;CAFqD;CAAvD"
+}
